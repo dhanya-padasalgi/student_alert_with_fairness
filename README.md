@@ -4,8 +4,7 @@
 **Problem:** 3
 **Team:** 3
 **Submission date:** 7 November 2026
-**Repository:** https://example.org/replace-with-repository
-**Submission commit:** REPLACE
+**Submission commit:** FINAL_COMMMIT
 
 ## Team
 
